@@ -55,7 +55,8 @@ The game is written in Python, and all the modules used are cross-platform. The 
 
 To run the game, run
 
-```$ python homepage.py
+```
+$ python homepage.py
 ```
 
 ## Debugging
